@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ClothingShop.Models.Customer>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Admin.cshtml";
+}
+
+<h2>Danh sách khách hàng</h2>
+
+<div class="col-lg-6 search-area" style="padding: 0 0 5px 0">
+    @using (Html.BeginForm())
+    {
+        @Html.TextBox("Search", "", new { @class = "form-control", placeholder = "Search..." })
+    }
+</div>
+
+<table border="1" class="table table-bordered  table-hover">
+    <tr>
+        <th>Tên khách hàng</th>
+        <th>Email</th>
+        <th>Thao tác</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr style="">
+            <td style="vertical-align: middle">
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td style="vertical-align: middle">
+                @Html.DisplayFor(modelItem => item.EmailCus)
+            </td>
+            <td style="vertical-align: middle">
+                <div class="btn btn-warning">
+                    @Html.ActionLink("Chỉnh sửa", "Edit", new { id = item.IDCus }, new { @class = "text-light" })
+                </div>
+                |
+                <div class="btn btn-danger">
+                    @Html.ActionLink("Xóa", "Delete", new { id = item.IDCus }, new { @class = "text-light" })
+                </div>
+            </td>
+        </tr>
+    }
+
+</table>

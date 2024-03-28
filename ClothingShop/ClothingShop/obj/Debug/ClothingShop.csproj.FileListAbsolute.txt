@@ -1,0 +1,331 @@
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.dll.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.pdb
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.CopyComplete
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.pdb
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.dll.config
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.pdb
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.exe
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.exe.config
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.rsp
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.exe
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.exe.config
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.rsp
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.AppContext.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Console.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.exe
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.exe.config
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.rsp
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\Antlr3.Runtime.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\Newtonsoft.Json.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Helpers.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Mvc.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Optimization.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Razor.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\WebGrease.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Helpers.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Mvc.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Optimization.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Razor.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\Newtonsoft.Json.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\Antlr3.Runtime.pdb
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.AssemblyReference.cache
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.CoreCompileInputs.cache
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.dll
+C:\Users\Phuoc\OneDrive\Desktop\ClothingShop\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.pdb
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\ClothingShop.dll.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\ClothingShop.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\ClothingShop.pdb
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.CopyComplete
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\obj\Debug\ClothingShop.dll
+C:\Users\ASUS\Desktop\DoAn\ClothingShop\ClothingShop\obj\Debug\ClothingShop.pdb
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.dll.config
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\ClothingShop.pdb
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.exe
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.exe.config
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csc.rsp
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.exe
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.exe.config
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\csi.rsp
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.AppContext.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Collections.Immutable.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Console.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Globalization.Calendars.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.Compression.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.FileSystem.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Net.Http.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Net.Sockets.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.ValueTuple.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XPath.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.exe
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.exe.config
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\vbc.rsp
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\VBCSCompiler.exe
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\roslyn\VBCSCompiler.exe.config
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\Antlr3.Runtime.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.SqlServer.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.Web.Infrastructure.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\Newtonsoft.Json.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Helpers.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Mvc.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Optimization.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Razor.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Deployment.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Razor.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\WebGrease.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\EntityFramework.SqlServer.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Helpers.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Mvc.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Optimization.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.Razor.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Deployment.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\System.Web.WebPages.Razor.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\Newtonsoft.Json.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\Antlr3.Runtime.pdb
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.AssemblyReference.cache
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.csproj.CoreCompileInputs.cache
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\obj\Debug\Clothing.C92681CB.Up2Date
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.dll
+F:\Design Pattern\ClothingShop\ClothingShop\ClothingShop\obj\Debug\ClothingShop.pdb

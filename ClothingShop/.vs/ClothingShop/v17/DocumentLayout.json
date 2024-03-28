@@ -1,0 +1,1048 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|f:\\design pattern\\clothingshop\\clothingshop\\clothingshop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\facadepatten\\imageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\facadepatten\\imageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\facadepatten\\infoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\facadepatten\\infoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\facadepatten\\productfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\facadepatten\\productfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\builderpattern\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\builderpattern\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\views\\cart\\getcartinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\views\\cart\\getcartinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\builderpattern\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\builderpattern\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\builderpattern\\productdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\builderpattern\\productdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\builderpattern\\iproductbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\builderpattern\\iproductbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\shared\\_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\shared\\_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\views\\categorypartial\\partialcate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\views\\categorypartial\\partialcate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\controllers\\categorypartialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\controllers\\categorypartialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\statepattern\\pendingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\statepattern\\pendingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\statepattern\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\statepattern\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\statepattern\\iorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\statepattern\\iorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\decoratorpattern\\notifierdecorator\\passworddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\decoratorpattern\\notifierdecorator\\passworddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\decoratorpattern\\notifierdecorator\\emailcusdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\decoratorpattern\\notifierdecorator\\emailcusdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\decoratorpattern\\notifierdecorator\\cusnamedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\decoratorpattern\\notifierdecorator\\cusnamedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\decoratorpattern\\concretecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\decoratorpattern\\concretecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\decoratorpattern\\abstractdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\decoratorpattern\\abstractdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\decoratorpattern\\customerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\decoratorpattern\\customerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\factorypattern\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\factorypattern\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\factorypattern\\loginuserfac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\factorypattern\\loginuserfac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\factorypattern\\loginfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\factorypattern\\loginfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\factorypattern\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\factorypattern\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\classdiagram\\factorydiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\classdiagram\\factorydiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\models\\singletonpattern\\singletondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\models\\singletonpattern\\singletondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\views\\users\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\views\\users\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|F:\\Design Pattern\\ClothingShop\\ClothingShop\\clothingshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87228BE3-BF4D-4775-A4AB-2749FD613223}|ClothingShop\\ClothingShop.csproj|solutionrelative:clothingshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\InfoProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingShop\\Models\\FacadePattern\\InfoProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\ImageProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingShop\\Models\\FacadePattern\\ImageProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\ProductFacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingShop\\Models\\FacadePattern\\ProductFacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 62,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T14:37:48.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T14:37:32.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoProduct.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePatten\\InfoProduct.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FacadePatten\\InfoProduct.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePatten\\InfoProduct.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FacadePatten\\InfoProduct.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:29:47.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageProduct.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePatten\\ImageProduct.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FacadePatten\\ImageProduct.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePatten\\ImageProduct.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FacadePatten\\ImageProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:29:35.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductFacade.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePatten\\ProductFacade.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FacadePatten\\ProductFacade.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePatten\\ProductFacade.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FacadePatten\\ProductFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:29:20.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\Product.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\Product.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:32:15.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "InfoProduct.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\InfoProduct.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FacadePattern\\InfoProduct.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\InfoProduct.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FacadePattern\\InfoProduct.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:55:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ImageProduct.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\ImageProduct.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FacadePattern\\ImageProduct.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\ImageProduct.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FacadePattern\\ImageProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:55:10.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProductFacade.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\ProductFacade.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FacadePattern\\ProductFacade.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FacadePattern\\ProductFacade.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FacadePattern\\ProductFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:52:22.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetCartInfo.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Cart\\GetCartInfo.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Views\\Cart\\GetCartInfo.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Cart\\GetCartInfo.cshtml",
+              "RelativeToolTip": "ClothingShop\\Views\\Cart\\GetCartInfo.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwDgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:25:25.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PartialCate.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\CategoryPartial\\PartialCate.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Views\\CategoryPartial\\PartialCate.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\CategoryPartial\\PartialCate.cshtml",
+              "RelativeToolTip": "ClothingShop\\Views\\CategoryPartial\\PartialCate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:22:46.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\BuilderPattern\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\BuilderPattern\\ProductViewModel.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\BuilderPattern\\ProductViewModel.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\BuilderPattern\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:28:22.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FactoryPattern\\ILogin.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FactoryPattern\\ILogin.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FactoryPattern\\ILogin.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FactoryPattern\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:52:17.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FactoryDiagram.cd",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\ClassDiagram\\FactoryDiagram.cd",
+              "RelativeDocumentMoniker": "ClothingShop\\ClassDiagram\\FactoryDiagram.cd",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\ClassDiagram\\FactoryDiagram.cd",
+              "RelativeToolTip": "ClothingShop\\ClassDiagram\\FactoryDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-28T03:51:14.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDirector.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\BuilderPattern\\ProductDirector.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\BuilderPattern\\ProductDirector.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\BuilderPattern\\ProductDirector.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\BuilderPattern\\ProductDirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:42:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductBuilder.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\BuilderPattern\\ProductBuilder.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\BuilderPattern\\ProductBuilder.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\BuilderPattern\\ProductBuilder.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\BuilderPattern\\ProductBuilder.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:41:20.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductBuilder.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\BuilderPattern\\IProductBuilder.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\BuilderPattern\\IProductBuilder.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\BuilderPattern\\IProductBuilder.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\BuilderPattern\\IProductBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:40:44.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CusNameDecorator.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\CusNameDecorator.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\CusNameDecorator.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\CusNameDecorator.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\CusNameDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:23:08.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClothingShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:22:33.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryPartialController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\CategoryPartialController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Controllers\\CategoryPartialController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\CategoryPartialController.cs",
+              "RelativeToolTip": "ClothingShop\\Controllers\\CategoryPartialController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:22:31.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Controllers\\CartController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ClothingShop\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:22:01.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ClothingShop\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:05:16.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SingletonData.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\SingletonPattern\\SingletonData.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\SingletonPattern\\SingletonData.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\SingletonPattern\\SingletonData.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\SingletonPattern\\SingletonData.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:41:09.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FactoryPattern\\UserFactory.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FactoryPattern\\UserFactory.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FactoryPattern\\UserFactory.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FactoryPattern\\UserFactory.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:40:30.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginUserFac.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FactoryPattern\\LoginUserFac.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FactoryPattern\\LoginUserFac.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FactoryPattern\\LoginUserFac.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FactoryPattern\\LoginUserFac.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:39:55.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PendingState.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\StatePattern\\PendingState.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\StatePattern\\PendingState.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\StatePattern\\PendingState.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\StatePattern\\PendingState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:51:11.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderState.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\StatePattern\\OrderState.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\StatePattern\\OrderState.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\StatePattern\\OrderState.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\StatePattern\\OrderState.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:45:41.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOrderState.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\StatePattern\\IOrderState.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\StatePattern\\IOrderState.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\StatePattern\\IOrderState.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\StatePattern\\IOrderState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:45:03.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T03:14:37.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Scripts\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "ClothingShop\\Scripts\\bootstrap.min.js",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Scripts\\bootstrap.min.js",
+              "RelativeToolTip": "ClothingShop\\Scripts\\bootstrap.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T02:58:00.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDetailController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\ProductDetailController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Controllers\\ProductDetailController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\ProductDetailController.cs",
+              "RelativeToolTip": "ClothingShop\\Controllers\\ProductDetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:43:19.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PasswordDecorator.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\PasswordDecorator.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\PasswordDecorator.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\PasswordDecorator.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\PasswordDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:56:51.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Views\\Users\\Login.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "ClothingShop\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T07:56:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T05:29:03.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginFactory.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FactoryPattern\\LoginFactory.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\FactoryPattern\\LoginFactory.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\FactoryPattern\\LoginFactory.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\FactoryPattern\\LoginFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:52:48.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConcreteCustomer.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\ConcreteCustomer.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\DecoratorPattern\\ConcreteCustomer.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\ConcreteCustomer.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\DecoratorPattern\\ConcreteCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T05:09:50.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerDecorator.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\CustomerDecorator.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\DecoratorPattern\\CustomerDecorator.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\CustomerDecorator.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\DecoratorPattern\\CustomerDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T05:09:47.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmailCusDecorator.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\EmailCusDecorator.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\EmailCusDecorator.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\EmailCusDecorator.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\DecoratorPattern\\NotifierDecorator\\EmailCusDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T05:09:16.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AbstractDecorator.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\AbstractDecorator.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\DecoratorPattern\\AbstractDecorator.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\DecoratorPattern\\AbstractDecorator.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\DecoratorPattern\\AbstractDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:23:29.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Users\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Views\\Users\\SignUp.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Users\\SignUp.cshtml",
+              "RelativeToolTip": "ClothingShop\\Views\\Users\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T17:19:57.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\CartItem.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\CartItem.cs",
+              "RelativeToolTip": "ClothingShop\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:50:04.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\App_Start\\FilterConfig.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "ClothingShop\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:47:23.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClothingShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T16:35:07.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClothingShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T16:19:21.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\Model.edmx",
+              "RelativeDocumentMoniker": "ClothingShop\\Models\\Model.edmx",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Models\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "ClothingShop\\Models\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-14T10:07:20.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:57:48.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Web.config",
+              "RelativeDocumentMoniker": "ClothingShop\\Web.config",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Web.config",
+              "RelativeToolTip": "ClothingShop\\Web.config",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-14T09:49:52.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:49:52.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:49:52.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:49:52.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ClothingShop\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAIoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:49:52.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwIkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:49:52.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Admin.cshtml",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Shared\\_Admin.cshtml",
+              "RelativeDocumentMoniker": "ClothingShop\\Areas\\Admin\\Views\\Shared\\_Admin.cshtml",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Areas\\Admin\\Views\\Shared\\_Admin.cshtml",
+              "RelativeToolTip": "ClothingShop\\Areas\\Admin\\Views\\Shared\\_Admin.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:49:52.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ClothingShop\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\Design Pattern\\ClothingShop\\ClothingShop\\ClothingShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ClothingShop\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:49:52.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

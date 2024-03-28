@@ -1,0 +1,28 @@
+﻿@model ClothingShop.Models.Category
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_Admin.cshtml";
+}
+<div style="padding: 10px 0 0 0">
+    <h3>Bạn có chắc chắn xóa danh mục này ?</h3>
+</div>
+<div>
+    <h4>Category</h4>
+    <div class="form-control">
+        <dl class="dl-control">
+            <dd>
+                @Html.DisplayFor(model => model.CategoryName)              
+            </dd>
+        </dl>
+
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Xóa" class="btn btn-danger" /> |
+                @Html.ActionLink("Quay trở lại", "Index")
+            </div>
+         }
+    </div>
+</div>

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ClothingShop.Models.Order>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Admin.cshtml";
+}
+
+<h2>Danh sách đơn hàng</h2>
+
+<div class="col-lg-6 search-area" style="padding: 0 0 5px 0">
+    @using (Html.BeginForm())
+    {
+        @Html.TextBox("Search", "", new { @class = "form-control", placeholder = "Search..." })
+    }
+</div>
+
+<table border="1" class="table table-bordered  table-hover">
+    <tr>
+        <th>Khách hàng</th>
+        <th>Ngày đặt</th>
+        <th>Địa chỉ giao hàng</th>
+        <th>Trạng thái đơn hàng</th>
+        <th>Thao tác</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="vertical-align: middle">
+                @item.Customer.CustomerName
+            </td>
+            <td style="vertical-align: middle">
+                @String.Format("{0:dd/MM/yyyy}", item.DateOrder)
+            </td>
+            <td style="vertical-align: middle">
+                @item.Address
+            </td>
+            @if (item.Status == 0)
+            {
+                <td class="font-weight-bold text-muted" style="vertical-align: middle">
+                    Chưa xác nhận
+                </td>
+            }
+            else
+            {
+                <td class="font-weight-bold text-success" style="vertical-align: middle">
+                    Đã xác nhận
+                </td>
+
+            }
+            <td style="vertical-align: middle">
+                <a class="btn btn-info" href="@Url.Action("Details/"+item.IDOrder,"Orders")">
+                    Xem chi tiết
+                </a>
+            </td>
+        </tr>
+    }
+
+
+</table>

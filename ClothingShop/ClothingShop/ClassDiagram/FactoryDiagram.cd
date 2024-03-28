@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClothingShop.Models.FactoryPattern.LoginFactory&lt;T&gt;">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FactoryPattern\LoginFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClothingShop.Models.FactoryPattern.LoginUserFac">
+    <Position X="2.75" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FactoryPattern\LoginUserFac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClothingShop.Models.FactoryPattern.UserFactory">
+    <Position X="7.25" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\FactoryPattern\UserFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.11" />
+  </Class>
+  <Interface Name="ClothingShop.Models.FactoryPattern.ILogin&lt;T&gt;">
+    <Position X="6.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\FactoryPattern\ILogin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
